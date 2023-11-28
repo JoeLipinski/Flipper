@@ -7,8 +7,5 @@ Install by adding the resources in each folder to the same folder on your flippe
 ## Support
 Feel free to submit an issue if you have any questions or issues. I plan on updating this repo as I find or create more helpful resources. I am open to contributions. Please feel free to contact me if you want to contribute.
 
-## Authors and acknowledgment
-I compiled this list a while ago and I lost track of where a lot of these resrouces came from, so if I am using you work, I'm sorry for the lack of attribution, but thank you!
-
-## License
-MIT License
+## Authors, Acknowledgment & License
+I compiled this list a while ago and I lost track of where a lot of these resrouces came from, so if I am using you work, I'm sorry for the lack of attribution, but thank you! This project is licensed under the MIT License terms.
